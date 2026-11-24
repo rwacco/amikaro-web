@@ -11,6 +11,8 @@ textarea,
   font-family: "Noto Serif", serif;
 }
 
+body { overflow-x: clip; }
+
 :root {
   --primary-hue: 141.77deg;
   --primary-saturation: 71.26%;

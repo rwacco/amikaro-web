@@ -20,7 +20,7 @@ languages:
           pageRef: /over
           weight: 1
         - name: Aanmelden
-          url: https://forms.gle/GuuffJQPC8nY5h3J6
+          pageRef: /aanmelden
           weight: 2
         - name: Language Switcher
           params:
@@ -35,7 +35,7 @@ languages:
           pageRef: /about
           weight: 1
         - name: Register
-          url: https://forms.gle/GuuffJQPC8nY5h3J6
+          pageRef: /registration
           weight: 2
         - name: Language Switcher
           params:
@@ -50,7 +50,7 @@ languages:
           pageRef: /pri
           weight: 1
         - name: Aliĝi
-          url: https://forms.gle/GuuffJQPC8nY5h3J6
+          pageRef: /aliĝi
           weight: 2
         - name: Language Switcher
           params:

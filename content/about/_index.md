@@ -1,6 +1,5 @@
 ---
 title: Over Amikaro
-type: about
 slug: over
 ---
 
