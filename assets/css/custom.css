@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+html,
+body,
+button,
+input,
+select,
+textarea,
+.font-sans,
+.content {
+  font-family: "Noto Serif", serif;
+}
+
+:root {
+  --primary-hue: 141.77deg;
+  --primary-saturation: 71.26%;
+  --primary-lightness: 34.12%;
+}
+
