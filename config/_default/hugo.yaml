@@ -45,11 +45,11 @@ languages:
     weight: 3
     menu:
       main:
-        - name: Over ons
-          pageRef: /over
+        - name: Pri ni
+          pageRef: /pri
           weight: 1
-        - name: Aanmelden
-          url: /docs
+        - name: Aliĝi
+          url: https://forms.gle/GuuffJQPC8nY5h3J6
           weight: 2
         - name: Language Switcher
           params:
