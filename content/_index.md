@@ -8,7 +8,7 @@ toc: false
 
   const namen = [
     "Amsterdamse Studentenvereniging voor <b>Interlinguïstiek</b>",
-    "Amsterdam Study Association for <b>Interlinguistics</b>",
+    "Amsterdam Student Association for <b>Interlinguistics</b>",
     "Amsterdama Studentasocio por <b>Interlingvistiko</b>"
   ];
 

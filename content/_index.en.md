@@ -8,7 +8,7 @@ toc: false
 
   const namen = [
     "Amsterdamse Studentenvereniging voor Interlinguïstiek",
-    "Amsterdam Study Association for Interlinguistics",
+    "Amsterdam Student Association for Interlinguistics",
     "Amsterdama Studentasocio por Interlingvistiko"
   ];
 
@@ -35,7 +35,7 @@ toc: false
   setTimeout(transitie, pauze);
 </script>
 
-Amsterdam Study Association for **Interlinguistics**
+Amsterdam Student Association for **Interlinguistics**
 {class="main-quote transition"}
 ---
 
