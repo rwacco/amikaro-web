@@ -17,3 +17,19 @@ textarea,
   --primary-lightness: 34.12%;
 }
 
+.hextra-nav-container nav a {
+  font-weight: 700 !important;
+}
+
+.hextra-nav-container nav a:hover {
+  color: hsl(var(--primary-hue) var(--primary-saturation) var(--primary-lightness)) !important;
+}
+
+.main-quote {
+  font-size: 50pt;
+  line-height: 50pt;
+}
+
+hr {
+  border-block-start: 1px solid hsl(var(--primary-hue) var(--primary-saturation) var(--primary-lightness)) !important;
+}
