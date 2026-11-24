@@ -81,6 +81,9 @@ params:
       link: /
       width: 125
       height: 35
+  
+  meta:
+    favicon: true
 
   theme:
     default: light

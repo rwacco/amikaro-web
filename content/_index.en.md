@@ -7,9 +7,9 @@ toc: false
   import { animate, scrambleText } from 'https://esm.sh/animejs';
 
   const namen = [
-    "Amsterdamse Studentenvereniging voor Interlinguïstiek",
-    "Amsterdam Student Association for Interlinguistics",
-    "Amsterdama Studentasocio por Interlingvistiko"
+    "Amsterdamse Studentenvereniging voor <b>Interlinguïstiek</b>",
+    "Amsterdam Student Association for <b>Interlinguistics</b>",
+    "Amsterdama Studentasocio por <b>Interlingvistiko</b>"
   ];
 
   const animatieDuur = 1200;
@@ -37,6 +37,5 @@ toc: false
 
 Amsterdam Student Association for **Interlinguistics**
 {class="main-quote transition"}
----
 
 ...

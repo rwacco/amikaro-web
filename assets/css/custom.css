@@ -28,9 +28,13 @@ body { overflow-x: clip; }
 }
 
 .main-quote {
-  font-size: clamp(20pt, 6vw, 50pt);
-  line-height: 1;
+  font-size: clamp(20pt, 6vw, 45pt);
+  line-height: 1.1;
   height: 4lh;
+  background-color: hsl(var(--primary-hue) var(--primary-saturation) var(--primary-lightness)) !important;
+  color: white !important;
+  padding: 0.2lh;
+  text-align: right
 }
 
 hr {

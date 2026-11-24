@@ -37,7 +37,6 @@ toc: false
 
 Amsterdamse Studentenvereniging voor **Interlinguïstiek**
 {class="main-quote transition"}
----
 
 test
 
