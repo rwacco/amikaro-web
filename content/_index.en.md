@@ -35,7 +35,7 @@ toc: false
   setTimeout(transitie, pauze);
 </script>
 
-Amsterdam Study Association for Interlinguistics
+Amsterdam Study Association for **Interlinguistics**
 {class="main-quote transition"}
 ---
 

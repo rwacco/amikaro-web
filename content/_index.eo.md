@@ -35,7 +35,7 @@ toc: false
   setTimeout(transitie, pauze);
 </script>
 
-Amsterdama Studentasocio por Interlingvistiko
+Amsterdama Studentasocio por **Interlingvistiko**
 {class="main-quote transition"}
 ---
 

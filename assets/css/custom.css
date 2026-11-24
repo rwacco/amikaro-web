@@ -26,8 +26,8 @@ textarea,
 }
 
 .main-quote {
-  font-size: 50pt;
-  line-height: 50pt;
+  font-size: clamp(20pt, 6vw, 50pt);
+  line-height: 1;
 }
 
 hr {
