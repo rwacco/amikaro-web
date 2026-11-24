@@ -30,6 +30,7 @@ body { overflow-x: clip; }
 .main-quote {
   font-size: clamp(20pt, 6vw, 50pt);
   line-height: 1;
+  height: 4lh;
 }
 
 hr {
