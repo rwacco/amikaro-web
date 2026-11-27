@@ -22,10 +22,13 @@ languages:
         - name: Aanmelden
           pageRef: /aanmelden/
           weight: 2
+        - name: Contact
+          pageRef: /contact/
+          weight: 3
         - name: Language Switcher
           params:
             type: language-switch
-            label: true # optional, default is false
+            label: false # optional, default is false
   en:
     label: English
     weight: 2
@@ -40,7 +43,7 @@ languages:
         - name: Language Switcher
           params:
             type: language-switch
-            label: true # optional, default is false
+            label: false # optional, default is false
   eo:
     label: Esperanto
     weight: 3
@@ -55,7 +58,7 @@ languages:
         - name: Language Switcher
           params:
             type: language-switch
-            label: true # optional, default is false
+            label: false # optional, default is false
 
 markup:
   # allow raw html

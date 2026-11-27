@@ -28,9 +28,9 @@ body { overflow-x: clip; }
 }
 
 .main-quote {
-  font-size: clamp(20pt, 6vw, 45pt);
+  font-size: clamp(25pt, 6vw, 45pt);
   line-height: 1.1;
-  height: 4lh;
+  height: 4.4lh;
   background-color: hsl(var(--primary-hue) var(--primary-saturation) var(--primary-lightness)) !important;
   color: white !important;
   padding: 0.2lh;
